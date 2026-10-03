@@ -1,0 +1,4 @@
+qcsim
+*.test
+*.out
+/tmp/
